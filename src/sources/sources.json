@@ -1006,5 +1006,12 @@
     "url": "https://w.linovelib.com",
     "lang": "Chinese",
     "icon": "https://w.linovelib.com/images/logo.png"
+  },
+  {
+    "sourceId": 166,
+    "sourceName": "8novel",
+    "url": "https://www.8novel.com",
+    "lang": "Chinese",
+    "icon": "https://www.8novel.com/images/logo_new.png"
   }
 ]
